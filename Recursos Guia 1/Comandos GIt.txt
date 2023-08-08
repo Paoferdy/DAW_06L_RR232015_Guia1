@@ -1,0 +1,12 @@
+Git init ---> Inicia el repositorio
+Git Status--> Muestra el estadus
+Git add (Nombre de archivo) 
+Git add . ---> Añade todos los archivos
+Git commit -m "Mensaje" ---> Confirma los cambios
+
+Alternativas a GitHub
+Gitlab ---> Permite crear repos privados
+Git pocket 
+
+Debe mandarse link de repositorio para tareas
+word de ss de funcionamiento del codigo
